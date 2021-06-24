@@ -27,12 +27,11 @@
     margin: 0 1rem;
     color: white;
   }
-  
-  .expenseItem__price {
+    .expenseItem__price {
     font-size: 1rem;
     font-weight: bold;
     color: white;
-    background-color: #40005d;
+    background-color: #cea862;
     border: 1px solid white;
     padding: 0.5rem;
     border-radius: 12px;
