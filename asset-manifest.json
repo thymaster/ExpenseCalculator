@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ExpenseCalculator/static/css/main.506033e0.chunk.css",
+    "main.js": "/ExpenseCalculator/static/js/main.9210e62b.chunk.js",
+    "main.js.map": "/ExpenseCalculator/static/js/main.9210e62b.chunk.js.map",
+    "runtime-main.js": "/ExpenseCalculator/static/js/runtime-main.d3804cf7.js",
+    "runtime-main.js.map": "/ExpenseCalculator/static/js/runtime-main.d3804cf7.js.map",
+    "static/js/2.13dbf904.chunk.js": "/ExpenseCalculator/static/js/2.13dbf904.chunk.js",
+    "static/js/2.13dbf904.chunk.js.map": "/ExpenseCalculator/static/js/2.13dbf904.chunk.js.map",
+    "index.html": "/ExpenseCalculator/index.html",
+    "static/css/main.506033e0.chunk.css.map": "/ExpenseCalculator/static/css/main.506033e0.chunk.css.map",
+    "static/js/2.13dbf904.chunk.js.LICENSE.txt": "/ExpenseCalculator/static/js/2.13dbf904.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3804cf7.js",
+    "static/js/2.13dbf904.chunk.js",
+    "static/css/main.506033e0.chunk.css",
+    "static/js/main.9210e62b.chunk.js"
+  ]
+}
